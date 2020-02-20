@@ -41,18 +41,19 @@ disableKinds = ["page", "section", "taxonomy", "taxonomyTerm", "RSS", "sitemap",
   # Personal data
   [params.personal]
     # If name is not set, author is used
-    name = "Jane Powers"
+    name = "Henrick Deschamps"
     # Avatars can be written to images/avatars/
-    avatar = "jane.jpg"
-    position = "Lead Engineer"
-    livesIn = "[Munich, Germany](#some-maps-url)"
+    avatar = "pro.jpg"
+    position = "Ph.D. Engineer"
+    livesIn = "[Toulouse, France](https://www.google.fr/maps/place/Toulouse/@43.6006786,1.3628012,12z/data=!3m1!4b1!4m5!3m4!1s0x12aebb6fec7552ff:0x406f69c2f411030!8m2!3d43.604652!4d1.444209)"
     scope = [
-        "UX for [member dashboard](#)",
-        "Maintainer for [awesome-project](#)",
-        "Open Source [community management](#)"
+        "Maintainer for [rrosace](https://github.com/hnrck/rrosace), [seaplanes](https://github.com/hnrck/rrosace), and [rrosace on seaplanes](https://github.com/hnrck/rrosace_seaplanes)",
       ]
-    biography = """Jane Powers is plain awesome. He worked at Corp A and B and is open for new work.  
-Even new lines and other markdown styles are working within the bio."""
+    biography = """
+    French communicating distributed systems Ph.D. and engineer, 
+    I am interested in real-time distributed systems.
+  I am looking for serious technological challenges, I would like to contribute to the conception and implementation of complex systems in a team, and to participate in the demonstration of these systems
+"""
 
   # Contact form settings
 
@@ -107,25 +108,25 @@ Even new lines and other markdown styles are working within the bio."""
   [[params.social]]
     title = "Twitter"
     icon = "fa-twitter"
-    link = "#"
+    link = "https://twitter.com/dhnrck"
     target = "_blank"
 
   [[params.social]]
-    title = "Instagram"
-    icon = "fa-instagram"
-    link = "#"
+    title = "Github"
+    icon = "fa-github"
+    link = "https://github.com/hnrck"
     target = "_blank"
 
   [[params.social]]
-    title = "Facebook"
-    icon = "fa-facebook"
-    link = "#"
+    title = "LinkedIn"
+    icon = "fa-linkedin"
+    link = "https://www.linkedin.com/in/henrick-deschamps"
     target = "_blank"
 
   # Footer settings
   [params.footer]
     # If copyright is not set, author is used
-    copyright = "Innovation inc"
+    # copyright = "Innovation inc"
 
   # Page license
   [params.license]
