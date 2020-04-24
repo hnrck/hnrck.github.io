@@ -7,7 +7,7 @@ sections:
 - type: document
   path: config.toml
   label: Site Config
-upload_dir: themes/hugo-identity-theme/static
+upload_dir: themes/hugo-identity-theme/static/images/avatars
 public_path: "/uploads"
 front_matter_path: ''
 use_front_matter_path: false
