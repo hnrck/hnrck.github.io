@@ -5,6 +5,7 @@ theme = "hugo-identity-theme"
 themesDir = "themes"
 title = "Hugo Identity Theme"
 [params]
+
   # Images settings
   # Icons, backgrounds and avatars folders are placed in theme's static/images folder.
   # You may place your images in corresponding folders and then set only filenames below to
@@ -143,4 +144,3 @@ title = "Hugo Identity Theme"
   #  domain = "www.example.com"
   #  # Optional integrity check hash
   #  hash = "sha512-RfeD0pacGTqy9m7U6PgehQfS4cc7SIt+e+P+H5e848kEvB/RW84CUGO3O4O3LNbxjevym6KPUZ8muPsMrI8WIw=="
->>>>>>> a52b12e... Improving intro
