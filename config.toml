@@ -1,9 +1,9 @@
-baseurl = "http://example.org"
+baseurl = "http://hnrck.io"
 disableKinds = ["page", "section", "taxonomy", "taxonomyTerm", "RSS", "sitemap", "robotsTXT", "404"]
 languageCode = "en-us"
 theme = "hnrck-identity-theme"
 themesDir = "themes"
-title = "Hugo Identity Theme"
+title = "Henrick Deschamps"
 publishDir = "."
 
 [params]
