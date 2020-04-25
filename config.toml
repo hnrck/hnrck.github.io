@@ -4,6 +4,8 @@ languageCode = "en-us"
 theme = "hnrck-identity-theme"
 themesDir = "themes"
 title = "Hugo Identity Theme"
+publishDir = "docs"
+
 [params]
 
   # Images settings
