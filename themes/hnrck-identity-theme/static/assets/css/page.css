@@ -1,0 +1,22 @@
+html {
+    min-height: 100%;
+}
+
+body {
+    min-height: 100%;
+    margin: 0;
+    background-size: auto;
+    background: rgb(255, 255, 255);
+    background: url("images/overlay.png"),
+    linear-gradient(
+            150deg,
+            rgba(200, 88, 73, 0.85) 1%,
+            rgba(196, 82, 124, 0.85) 30%,
+            rgba(192, 82, 146, 0.85) 40%,
+            rgba(163, 91, 174, 0.85) 60%,
+            rgba(97, 116, 200, 0.85) 90%),
+    url("../../images/backgrounds/seoul.jpeg");
+
+    filter: progid:DXImageTransform.Microsoft.gradient(startColorstr="#cdee69", endColorstr="#efff00", GradientType=1);
+}
+
