@@ -43,6 +43,7 @@ publishDir = "."
     livesIn = "[Toulouse, France](https://www.google.fr/maps/place/Toulouse/@43.6006786,1.3628012,12z/data=!3m1!4b1!4m5!3m4!1s0x12aebb6fec7552ff:0x406f69c2f411030!8m2!3d43.604652!4d1.444209)"
     scope = [
         "Designer, developper and maintainer for [seaplanes](https://github.com/hnrck/seaplanes) and [rrosace](https://github.com/hnrck/rrosace)",
+        "Check out my [blog](https://hnrck.io/blog)",
       ]
     biography = """"""
 
@@ -112,6 +113,12 @@ publishDir = "."
     title = "LinkedIn"
     icon = "fa-linkedin"
     link = "https://www.linkedin.com/in/henrick-deschamps"
+    target = "_blank"
+
+  [[params.social]]
+    title = "Blog"
+    icon = "fa-blog"
+    link = "https://hnrck.io/blog"
     target = "_blank"
 
   [[params.social]]
