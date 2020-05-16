@@ -1,5 +1,6 @@
 @charset "UTF-8";
 @import url("source-sans-pro-300-family.css");
+@import url("../css/all.css");
 @import url("../fonts/iosevka_curly.css");
 @import url("../fonts/iosevka_ss08.css");
 
@@ -245,7 +246,7 @@ textarea:focus {
     content: "";
     -moz-osx-font-smoothing: grayscale;
     -webkit-font-smoothing: antialiased;
-    font-family: FontAwesome;
+    font-family: "Font Awesome 5 Free", "Font Awesome 5 Brands";
     font-style: normal;
     font-weight: normal;
     text-transform: none !important;
@@ -310,7 +311,7 @@ input[type="checkbox"] + label:before,
 input[type="radio"] + label:before {
     -moz-osx-font-smoothing: grayscale;
     -webkit-font-smoothing: antialiased;
-    font-family: FontAwesome;
+    font-family: "Font Awesome 5 Free", "Font Awesome 5 Brands";
     font-style: normal;
     font-weight: normal;
     text-transform: none !important;
@@ -389,7 +390,7 @@ input[type="radio"] + label:before {
 .icon:before {
     -moz-osx-font-smoothing: grayscale;
     -webkit-font-smoothing: antialiased;
-    font-family: FontAwesome;
+    font-family: "Font Awesome 5 Free", "Font Awesome 5 Brands";
     font-style: normal;
     font-weight: normal;
     text-transform: none !important;
@@ -462,7 +463,7 @@ ul.icons li a {
 ul.icons li a:before {
     -moz-osx-font-smoothing: grayscale;
     -webkit-font-smoothing: antialiased;
-    font-family: FontAwesome;
+    font-family: "Font Awesome 5 Free", "Font Awesome 5 Brands";
     font-style: normal;
     font-weight: normal;
     text-transform: none !important;
