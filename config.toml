@@ -122,6 +122,12 @@ publishDir = "."
     target = "_blank"
 
   [[params.social]]
+    title = "CV"
+    icon = "fa-file"
+    link = "https://hnrck.keybase.pub/cv_henrick_deschamps.pdf"
+    target = "_blank"
+
+  [[params.social]]
     title = "Message"
     icon = "fa-envelope"
     link = "mailto:contact@hnrck.io"
