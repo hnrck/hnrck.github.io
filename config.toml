@@ -133,6 +133,13 @@ publishDir = "."
     link = "mailto:contact@hnrck.io"
     target = "_blank"
 
+  [[params.social]]
+    title = "Keybase"
+    icon = "fa-keybase"
+    link = "https://keybase.io/hnrck"
+    target = "_blank"
+
+
   # Footer settings
   [params.footer]
     # If copyright is not set, author is used
