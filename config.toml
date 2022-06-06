@@ -1,4 +1,4 @@
-baseurl = "http://hnrck.io"
+baseurl = "https://hnrck.io"
 disableKinds = ["page", "section", "taxonomy", "taxonomyTerm", "RSS", "sitemap", "robotsTXT", "404"]
 languageCode = "en-us"
 publishDir = "."
